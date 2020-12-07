@@ -878,6 +878,7 @@ img {
 .footer-form-input:-webkit-autofill, .footer-form-input:-webkit-autofill:hover, .footer-form-input:-webkit-autofill:focus {
   -webkit-text-fill-color: #ffffff;
   -webkit-box-shadow: 0 0 0px 1000px #2f303a inset;
+  box-shadow: 0 0 0px 1000px #2f303a inset;
 }
 
 .mailing-icon-svg {
