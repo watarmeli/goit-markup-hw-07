@@ -16,10 +16,6 @@
   background-color: $white;
   border-radius: 50%;
 
-  .footer-social & {
-    background-color: rgba(255, 255, 255, 0.1);
-  }
-
   &:hover,
   &:focus {
     background-color: $accent-cl;
@@ -28,6 +24,10 @@
   .footer-social &:hover,
   .footer-social &:focus {
     background-color: $accent-cl;
+  }
+
+  .footer-social & {
+    background-color: rgba(255, 255, 255, 0.1);
   }
 }
 
